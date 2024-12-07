@@ -1,0 +1,1 @@
+enum QuotesStatus { loading, success, failure }
